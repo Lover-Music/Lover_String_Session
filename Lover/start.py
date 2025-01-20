@@ -2,7 +2,7 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 
 from config import OWNER_ID
-from TechVJ.db import db
+from Lover.db import db
 
 # Renaming the filter function to avoid conflict with built-in names
 def command_filter(cmd: str):
