@@ -1,4 +1,8 @@
 ## 𝙇𝙊𝙑𝙀𝙍 ✘ 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 String Generator Bot 
+
+### HEROKU
+
+- <b> [![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lover-Music/Lover_String_Session)<b>
  
 ### Features
 
@@ -15,9 +19,6 @@
 - `/generate` - generate a string session 
 - `/broadcast` - broadcast a message to all bot users (owner only)</b>
 
-### HEROKU
-
-- <b> [![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lover-Music/Lover_String_Session)<b>
 
 ###  Variables
 
