@@ -1,4 +1,4 @@
-## VJ String Session Generator Bot 
+## 𝙇𝙊𝙑𝙀𝙍 ✘ 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 String Generator Bot 
  
 ### Features
 
@@ -15,7 +15,9 @@
 - `/generate` - generate a string session 
 - `/broadcast` - broadcast a message to all bot users (owner only)</b>
 
-[![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lover-Music/String-Session-Generator-Bot)
+### HEROKU
+
+- <b> [![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lover-Music/Lover_String_Session)<b>
 
 ###  Variables
 
@@ -24,8 +26,8 @@
 - `BOT_TOKEN` - Get your Bot Token from [@BotFather](https://t.me/BotFather)
 - `OWNER_ID` - Owner id of owner for broadcasting
 - `F_SUB` - Optional, Your Force Subscribe Channel Id & Make Bot Admin Here In This Channel 
-- `MONGO_DB_URI` - Get mongodb database uri from [MongoDB](https://mongodb.com) Watch [Video Tutorial](https://youtu.be/DAHRmFdw99o)</b>
+- `MONGO_DB_URI` - Get mongodb database uri from [MongoDB](https://mongodb.com) Watch [Video Tutorial](youtube.com)</b>
 
 ## Credits
 
-- <b>[Tech VJ](https://youtube.com/@Tech_VJ)</b>
+- <b>[Lover Music Support](https://youtube.com/)</b>
